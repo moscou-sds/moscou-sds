@@ -1,15 +1,19 @@
-### Hi there, I'm Sebas - aka [moscou-sds] 👋
-## I'm a student, I'm lazy, and I'm trying to understand new languages!!
+## Hi there 
+## I'm Sebas 👋
+### I'm a student, some times lazy, trying to understand all the languages i can!!
 
-- 🌱 I’m currently learning stuff
-- 🥅 2020 Goals: Contribute more
-- ⚡ Fun fact: I want to start surfing 🏄
+- Currently learning stuff
+- *Fun fact*: I want to start surfing 🏄
+
+---
+
+How to reach me?
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="moscou-sds Spotify Playing" width="350" />](https://open.spotify.com/user/sebmosko?si=E_LJLnbcR5iS3ncMjn_x1g)
 
-<br />
+---
 
 ### Languages and Tools:
 
