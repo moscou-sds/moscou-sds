@@ -8,7 +8,7 @@ I'm trying to make an app for people with [anxiety](https://github.com/moscou-sd
 
 ---
 
-How to reach me?
+**How to reach me?**
 <br />
 [<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sebasmoskovic)‎      ‏‏‎‎      ‏‏‎‎      ‏‏‎
 [<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sebas.moskovic)‎      ‏‏‎‎      ‏‏‎‎      ‏‏‎
