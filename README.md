@@ -7,7 +7,7 @@
 ---
 
 How to reach me?
-[Twitter](https://twitter.com/sebasmoskovic)
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/sebasmoskovic)
 [Instagram](https://instagram.com/sebas.moskovic)
 [LinkedIn](https://linkedin.com/in/sebastian-moskovic-71682a1a1)
 
@@ -19,6 +19,7 @@ How to reach me?
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -30,7 +31,7 @@ How to reach me?
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="moscou-sds's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=moscou-sds&show_icons=true&hide_border=true" />
 
