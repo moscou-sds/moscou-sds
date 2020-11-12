@@ -39,7 +39,3 @@ How to reach me?
   <img align="left" alt="moscou-sds's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=moscou-sds&show_icons=true&hide_border=true" />
 
 </details>
-
-[twitter]: https://twitter.com/sebasmoskovic
-[instagram]: https://instagram.com/sebas.moskovic
-[linkedin]: https://linkedin.com/in/sebastian-moskovic-71682a1a1
