@@ -7,11 +7,11 @@
 ---
 
 How to reach me?
-CJMTwitterFollowButton *button = [[CJMTwitterFollowButton alloc] initWithOrigin:CGPointMake(135, 125)
-                                                                 twitterAccount:@"sebasmoskovic"
-                                                                        andSize:CJMButtonSizeSmall];
+[Twitter](https://twitter.com/sebasmoskovic)
+[Instagram](https://instagram.com/sebas.moskovic)
+[LinkedIn](https://linkedin.com/in/sebastian-moskovic-71682a1a1)
 
----
+-----
 
 ### Languages and Tools:
 
