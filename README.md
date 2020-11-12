@@ -4,7 +4,7 @@
 - Currently learning stuff
 - *Fun fact*: I want to start surfing 🏄
 
-I'm trying to make an app for people with [anxiety](https://github.com/moscou-sds/Anxiety)
+I'm trying to make an app for people with [anxiety](https://github.com/moscou-sds/Anxiety) (is in process)
 
 ---
 
