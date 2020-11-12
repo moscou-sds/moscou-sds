@@ -1,5 +1,4 @@
-## Hi there 
-## I'm Sebas 👋
+## Heyy, I'm Sebas 👋
 ### I'm a student, some times lazy, trying to understand all the languages i can!!
 
 - Currently learning stuff
@@ -8,10 +7,6 @@
 ---
 
 How to reach me?
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="moscou-sds Spotify Playing" width="350" />](https://open.spotify.com/user/sebmosko?si=E_LJLnbcR5iS3ncMjn_x1g)
 
 ---
 
