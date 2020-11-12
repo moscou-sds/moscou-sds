@@ -7,6 +7,9 @@
 ---
 
 How to reach me?
+CJMTwitterFollowButton *button = [[CJMTwitterFollowButton alloc] initWithOrigin:CGPointMake(135, 125)
+                                                                 twitterAccount:@"sebasmoskovic"
+                                                                        andSize:CJMButtonSizeSmall];
 
 ---
 
