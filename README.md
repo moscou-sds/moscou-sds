@@ -1,10 +1,12 @@
 ## Heyy, I'm Sebas 👋
 ### I'm a student, some times lazy, trying to understand all the languages i can!!
 
-- Currently learning stuff
-- *Fun fact*: I want to start surfing 🏄
+- **Currently:** Learning stuff
+- **Fun fact:** I want to start surfing 🏄
 
-I'm trying to make an app for people with [anxiety](https://github.com/moscou-sds/Anxiety) (is in process)
+I'm trying to make an app for people with [**anxiety**](https://github.com/moscou-sds/Anxiety) (is in process)
+
+Website of [**Anxiety**](https://moscou-sds.github.io/ax-html/)
 
 ---
 
