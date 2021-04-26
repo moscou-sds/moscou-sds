@@ -1,4 +1,4 @@
-## Heyy, I'm Sebas 👋
+## Hey, I'm Sebas 👋
 ### I'm a student, some times lazy, trying to understand all the languages i can!!
 
 - **Currently:** Learning stuff
