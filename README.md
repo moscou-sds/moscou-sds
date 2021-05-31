@@ -38,8 +38,8 @@ Website of [**Anxiety**](https://moscou-sds.github.io/ax-html/)
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moscou-sds&show_icons=true&theme=light&line_height=27" alt="Sebas's github stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moscou-sds&repo=Anxiety&theme=light" />
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moscou-sds&show_icons=true&theme=light&line_height=27" alt="Sebas's github stats"/></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moscou-sds&repo=Anxiety&theme=light" /></a>
 
 
 </details>
