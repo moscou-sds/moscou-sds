@@ -38,6 +38,7 @@ Website of [**Anxiety**](https://moscou-sds.github.io/ax-html/)
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="moscou-sds's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=moscou-sds&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?moscou-sds=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
