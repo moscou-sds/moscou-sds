@@ -6,8 +6,6 @@
 
 I'm trying to make an app for people with [**anxiety**](https://github.com/moscou-sds/Anxiety) (is in process)
 
-Website of [**Anxiety**](https://moscou-sds.github.io/ax-html/)
-
 ---
 
 **How to reach me?**
