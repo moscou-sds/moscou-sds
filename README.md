@@ -8,7 +8,7 @@
 **How to reach me?**
 <br />
 [<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sebasmoskovic)‎      ‏‏‎‎      ‏‏‎‎      ‏‏‎
-[<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sebas.moskovic)‎      ‏‏‎‎      ‏‏‎‎      ‏‏‎
+[<img height="26" width="26" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://instagram.com/sebas.moskovic)‎      ‏‏‎‎      ‏‏‎‎      ‏‏‎
 [<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sebastian-moskovic-71682a1a1)
 
 -----
