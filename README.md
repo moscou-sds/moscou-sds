@@ -1,7 +1,7 @@
 # Hey, I'm Sebas 👋
 ### I'm a student, some times lazy, trying to understand all the languages i can!!
 
-- **Currently:** Learning stuff
+- **Currently:** Learning stuff <img height="26" width="26" src="https://i.gifer.com/ZKZx.gif" />
 
 ---
 ### Languages and Tools:
