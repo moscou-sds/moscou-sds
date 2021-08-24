@@ -1,10 +1,5 @@
 # Hey, I'm Sebas 👋
 ### I'm a student, some times lazy, trying to understand all the languages i can!!
-
-- **Currently:** Learning stuff and studing
-
-![](up.gif)
-
 ---
 ### Languages and Tools:
 
@@ -26,29 +21,47 @@
 ---
 ### Education:
 
-**Universidad de Palermo | Informatics Engineering** Current studing<br/>
-**San Patricio College | Baccalaureate Humanities / Humanistic Studies** 2010 - 2019
+**[Universidad de Palermo ](https://www.palermo.edu/)| Informatics Engineering** *Current studing*<br/>
+**[San Patricio de Moreno ](https://sanpatriciomoreno.wordpress.com/) | Baccalaureate Humanities / Humanistic Studies** *2010 - 2019*
 
 ---
+
+### Certificates:
+**First Certificate in English**<br/>
+*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
+**Certificación de Informática - Mención Magna Cum Laude** <br/>
+*[UTN Buenos Aires](https://www.frba.utn.edu.ar//)*<br/>
+**IGCSE Biology**<br/>
+*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
+**IGCSE Business Studies**<br/>
+*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
+**IGCSE First Language Spanish**<br/>
+*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
+**IGCSE French**<br/>
+*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
+**IGCSE History**<br/>
+*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
+**IGCSE Mathematics**<br/>
+*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
+**House Price Award**<br/>
+*[British Council](https://www.britishcouncil.org/)*<br/>
+**Summer Explorer at St Albans**<br/>
+*[British Council](https://www.britishcouncil.org/)*<br/>
+
+
+---
+
 #### How to reach me? 
-<br />
-[![Twitter](https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667)](https://twitter.com/sebasmoskovic)
-<img height="26" width="26" src="" />()‎      ‏‏‎‎      ‏‏‎‎      ‏‏‎
-[<img height="26" width="26" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/>](https://instagram.com/sebas.moskovic)‎      ‏‏‎‎      ‏‏‎‎      ‏‏‎
-[<img height="26" width="26" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />](https://linkedin.com/in/sebastian-moskovic-71682a1a1)
+**[Twitter](https://twitter.com/sebasmoskovic)**<br/>
+**[Linkedin](www.linkedin.com/in/sebas-moskovic)**
 
------
-![Sebs’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Sebs’ GutHub Stats”)
 ---
+
 
 
 </details>
-
 <details>
-  <summary>GitHub Stats</summary>
-
+  <summary>Stats</summary>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moscou-sds&show_icons=true&theme=light&line_height=27" alt="Sebas's github stats"/></a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moscou-sds&repo=Anxiety&theme=light" /></a>
-
-
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moscou-sds" alt="Sebas's github stats"/></a>
 </details>
