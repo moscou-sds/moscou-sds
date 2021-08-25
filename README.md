@@ -1,6 +1,10 @@
 # Hey, I'm Sebas 👋
 ### I'm a student, some times lazy, trying to understand all the languages i can!!
 ---
+#### How to reach me? 
+**[Twitter  ](https://twitter.com/sebasmoskovic)** - **[LinkedIn](www.linkedin.com/in/sebas-moskovic)**
+
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -50,15 +54,6 @@
 
 
 ---
-
-#### How to reach me? 
-**[Twitter](https://twitter.com/sebasmoskovic)**<br/>
-**[Linkedin](www.linkedin.com/in/sebas-moskovic)**
-
----
-
-
-
 </details>
 <details>
   <summary>Stats</summary>
