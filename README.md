@@ -2,7 +2,7 @@
 ### I'm a student, some times lazy, trying to understand all the languages i can!!
 ---
 #### How to reach me? 
-**[Twitter  ](https://twitter.com/sebasmoskovic)** - **[LinkedIn](www.linkedin.com/in/sebas-moskovic)**
+**[Twitter  ](https://twitter.com/sebasmoskovic)** - **[LinkedIn](https://www.linkedin.com/in/sebas-moskovic/)**
 
 ---
 ### Languages and Tools:
