@@ -35,20 +35,8 @@
 *[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
 **Certificación de Informática - Mención Magna Cum Laude** <br/>
 *[UTN Buenos Aires](https://www.frba.utn.edu.ar//)*<br/>
-**IGCSE Biology**<br/>
+**IGCSE**<br/>
 *[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
-**IGCSE Business Studies**<br/>
-*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
-**IGCSE First Language Spanish**<br/>
-*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
-**IGCSE French**<br/>
-*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
-**IGCSE History**<br/>
-*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
-**IGCSE Mathematics**<br/>
-*[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
-**House Price Award**<br/>
-*[British Council](https://www.britishcouncil.org/)*<br/>
 **Summer Explorer at St Albans**<br/>
 *[British Council](https://www.britishcouncil.org/)*<br/>
 
