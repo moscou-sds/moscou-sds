@@ -35,6 +35,8 @@
 *[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
 **Certificación de Informática - Mención Magna Cum Laude** <br/>
 *[UTN Buenos Aires](https://www.frba.utn.edu.ar//)*<br/>
+**Certificación de Tecnología MS Excel en su nivel Fundamentos** <br/>
+*[UTN Buenos Aires](https://www.frba.utn.edu.ar//)*<br/>
 **IGCSE**<br/>
 *[Cambridge Assessment International Education](https://www.cambridgeinternational.org/)*<br/>
 **Summer Explorer at St Albans**<br/>
