@@ -23,12 +23,6 @@
 
 
 ---
-### Education:
-
-**[Universidad de Palermo ](https://www.palermo.edu/)| Informatics Engineering** *Current studing*<br/>
-**[San Patricio de Moreno ](https://sanpatriciomoreno.wordpress.com/) | Baccalaureate Humanities / Humanistic Studies** *2010 - 2019*
-
----
 
 ### Certificates:
 **First Certificate in English**<br/>
